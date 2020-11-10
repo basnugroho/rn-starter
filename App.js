@@ -7,7 +7,7 @@ import ListScreen from './src/screens/ListScreen';
 const navigator = createStackNavigator(
   {
     Home: HomeScreen,
-    Component: ComponentsScreen,
+    Components: ComponentsScreen,
     List: ListScreen
   },
   {
