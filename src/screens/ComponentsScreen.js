@@ -4,7 +4,6 @@ import { View } from 'react-native'
 import { Text, StyleSheet } from 'react-native' 
 
 // create component function that return some JSX
-
 const ComponentScreen = () => {
     const myName = 'Baskoro';
 
